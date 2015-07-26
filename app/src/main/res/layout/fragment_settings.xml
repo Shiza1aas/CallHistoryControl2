@@ -5,10 +5,4 @@
     android:orientation="vertical"
     tools:context="com.example.shiza.callhistorycontrol.Settings">
 
-    <!-- TODO: Update blank fragment layout -->
-
-    <ListView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/contactListView"></ListView>
 </LinearLayout>
